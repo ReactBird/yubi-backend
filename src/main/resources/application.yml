@@ -90,3 +90,8 @@ cos:
     secretKey: xxx
     region: xxx
     bucket: xxx
+# 鱼聪明AI配置
+yuapi:
+  client:
+    access-key: ejoiigyfxqioytqd1yoeihqbi6hdst62
+    secret-key:  q9tu0kvxvjbgu6wwcjwfyl7huz7mjujo
